@@ -37,6 +37,10 @@
 
 //K VA N SONLAR DASTURI:
 
-// let k = Number(prompt('1-son kiriting'));
-// let n = Number(prompt('2-son kiriting'))
+let k = 23;
+let n = 9;
+
+for(i = 0; i < n; i++){
+      console.log(k);
+}
 
